@@ -12,3 +12,7 @@ PRODUCT_PACKAGES += \
     PixelDisplayServiceOverlayShiba
 
 TARGET_VENDOR_PROP += $(DEVICE_PATH)/$(DEVICE_CODENAME)/vendor.prop
+
+# Init
+PRODUCT_PACKAGES += \
+    init.recovery.shiba.touch.rc
