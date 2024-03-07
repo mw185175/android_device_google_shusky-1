@@ -43,4 +43,8 @@
 
      <!-- Pixel pitch of the device. um/px -->
     <item name="pixel_pitch" format="float" type="dimen">51.9</item>
+    
+    <!-- UDFPS animations -->
+    <dimen name="udfps_animation_size">230dp</dimen>
+    <dimen name="udfps_animation_offset">-18dp</dimen>
 </resources>
